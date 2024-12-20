@@ -1,0 +1,10 @@
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\bin\Debug\kullanicipaneli.exe.config
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\bin\Debug\kullanicipaneli.exe
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\bin\Debug\kullanicipaneli.pdb
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.Form1.resources
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.exe
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\kullanicipaneli\kullanicipaneli\obj\Debug\kullanicipaneli.pdb
